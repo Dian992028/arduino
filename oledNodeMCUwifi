@@ -7,8 +7,8 @@
 //5v - VCC
 //GND - GND
 
-const char* ssid = "ayulestari";              
-const char* password = "ayubay73";      
+const char* ssid = "ssid wifi";              
+const char* password = "password";      
 
 const char* NTP_SERVER = "id.pool.ntp.org";
 const char* TZ_INFO    = "WITA-8";  // enter your time zone (https://remotemonitoringsystems.ca/time-zone-abbreviations.php)
